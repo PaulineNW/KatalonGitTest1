@@ -4,4 +4,9 @@
    <name>default</name>
    <tag></tag>
    <defaultProfile>true</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'b7d794f3-c318-446b-8897-b0dcdce01e32'</initValue>
+      <name>tokenMerlin</name>
+   </GlobalVariableEntity>
 </GlobalVariableEntities>
