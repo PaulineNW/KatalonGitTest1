@@ -1,0 +1,10 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+Test Suite1,,,2019-05-09 11:56:53,2019-05-09 11:56:57,4.201s,FAILED
+,,,,,,
+Test Cases/List of Products- Merlin,,,2019-05-09 11:56:53,2019-05-09 11:56:56,3.004s,FAILED
+"var1 = sendRequest(findTestObject(""GET List of Products- Merlin"", [""tokenMerlin"":tokenMerlin]))",,,2019-05-09 11:56:53,2019-05-09 11:56:56,2.534s,PASSED
+"verifyResponseStatusCode(var1, 200)",,,2019-05-09 11:56:56,2019-05-09 11:56:56,0.028s,FAILED
+,,,,,,
+Test Cases/Specific product- Merlin,,,2019-05-09 11:56:56,2019-05-09 11:56:57,0.859s,FAILED
+"var1 = sendRequest(findTestObject(""GET Specific product- Merlin"", [""tokenMerlin"":tokenMerlin]))",,,2019-05-09 11:56:56,2019-05-09 11:56:57,0.665s,PASSED
+"verifyResponseStatusCode(var1, 200)",,,2019-05-09 11:56:57,2019-05-09 11:56:57,0.007s,FAILED
