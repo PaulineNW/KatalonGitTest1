@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>shorter name4</name>
+   <tag></tag>
+   <elementGuidId>0aafddd0-225a-43e5-8b3c-97e0fe428c2a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='collections_officer']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>collections_officer</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>collections_officer</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                                                             
+                                        Marigat: Damaris Cherutich Ngong: Hellen SinkaleBurnt Forest: Kennedy MwangiMeru: Nathan MainaKiambu: Paul NderituRuai: Victor OyaroLimuru: Peter KiamaKiambu: Heinrich OsodoTala: Henry MutuaEldama Ravine: Dummy CO Dummy COKawangware: Dummy kawCOMarigat: DummyCO DummyCOKagio: Harun KamauKagio: Anthony WachiraKitui: Roy OnesmusEmbu: Monica NyamburaRongai: Dummy COMeru: DummyCO MeruKawangware: Joel MondaJunction: dummyco junctionMatuu: Thomas MusyokaKitui: Emmanuel KimanziKangemi: Joseph OchangaMachakos: Gladys WambuguMumias: DummyCO MumiasKaratina: Wilfred MukunaNyeri: Henry OnchiriKiriaini: Laban MaiyoKerugoya: Dummyco KeruUtawala: Fred Chungani IsiahoKerugoya: Thomas MbuguaMolo: Nahashon GichuruNanyuki: Dummyco NanyukiBomet: Antony RamaNaivasha: Jackson NjorogeNgong: Shadrack  Mutunga Nyeri: Titus KiplagatRuiru: Sorphine  MachuaraKericho: Antony Kiplagat Sotik: Oscar MwanguNyahururu: Titus KaranjaKericho: Jackson MoikutNarok: Ezekiel  Koinet Mwea: Bonface OdhiamboWangige: Hezekiah AwinoWangige: Olympia Emali Tala: Geoffrey KimemiaEmbu: Stephen KingaChuka: Samuel GitauDagoretti: Simon   MainaLimuru: John KingathiaGithunguri: Samuel KirumaKenol: John mwangiKitale: Jemima kinisuSerem: charles odongoKabarnet: Patrick MungaiMatuu: Kelvin GitauBungoma: Lilian EtemesiIten: Josphat KiruiBungoma: Hazael Kiprop  ButtukJuja: dianah matokeNaivasha: Ansbert WahomeBomet: Robert  KomenWote: Linet  BunyasiLuanda: job musulaKakamega: Mary iburu Kakamega: chepkonga  kipkorirMbale: nyabuto ondiekiMbale: benea austine Eldoret: Ngeno  KiprotichKapsowar:  Josphat  KipkorirBumala: Collins MuchembiWebuye: Kennedy  ogollaBusia: Ruth  cheropNkubu: George WachiraKangari: Veronica  WanjikuKiserian: Stephen KareruMolo: Esther KibuiRuai: Benta  Irungu Kimende: Edwin  GitutoNjoro: Michael mureithiMakutano: Nelson kemboiChwele: Naomi Wangui Kapcherop: scholastica rotichDagoretti: Martin WairimuRongai: Antony HezronMachakos: Felix  MureithiBusia: Meshack Ongaria  OdulaNandi Hills: Andrew   Maiyo Banana: Michael GathumbiLitein: Sylvia Ndanu MboyaKaratina: Ann WanjiruKitale: Martin NjeruDagoretti: DummyCO DagoNarok: Consolata BarasaEmali: justine mwasagaEmali: austine omondiEldoret: Caleb KiplangatMbale: Francis Kiandi  Francis Kiandi Kiriaini: Ann Wanja Mwangi  Mwangi Kinoo: Lorine  Awour Rongai: Solomon MainaJunction: Arnet  AsukoRuiru: Edwin MoriasiKimilili: Frankline  BarazaEldama Ravine: lawrence ronoKawangware: Joshua Momanyi                                </value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;collections_officer&quot;)</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <value>//select[@id='collections_officer']</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <value>//form[@id='frmOrder']/table/tbody/tr[4]/td[4]/select</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Collections Officer: *'])[1]/following::select[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Loan Officer: *'])[1]/following::select[2]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Outcome*'])[1]/preceding::select[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Outcome Explanation*'])[1]/preceding::select[2]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <value>//tr[4]/td[4]/select</value>
+   </webElementXpaths>
+</WebElementEntity>

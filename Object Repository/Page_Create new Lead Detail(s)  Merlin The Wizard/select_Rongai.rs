@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Rongai</name>
+   <tag></tag>
+   <elementGuidId>8fb20940-482b-4b73-adec-02320deb1ebc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='loan_officer']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>loan_officer</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>loan_officer</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                                                             
+                                        Rongai: Gladys MutendeMumias: Richard AbutiKiambu: Nicanor OtienoUtawala: Purity GikonyoRuai: Imelda Nancy MuthoniEmbu: Annjudy WangechiDagoretti: Ferdinand LwashiNgong: Salome NduatiKerugoya: Stephen MachariaEldoret: Vincent SigeiKericho: Emily kibetNgong: Ann KarabaDagoretti: Martin KairuKaratina: Yolam KateteKawangware: Victor NgangaMakutano: hillary. ronohGithunguri: Caroline WanjeriBomet: Brenda YegonNaivasha: Edith AchiengNarok: Winnie WanjikuKiserian: Susan WanjikuWote: Daniel  MuokiKaratina: John NyagaNarok: Simon  MasikondeMwea: Angela KarimiRuiru: Moses  OdhiamboKagio: Edwin  GitongaKiserian: JULIA  AGHANChuka: Max WandereNyeri: Edwin NdigaKericho: Victor OtienoKerugoya: George MuhoroJuja: Evans GikundiSotik: Iyvne ChepkiruiEldama Ravine: Kipngenoh  RonohKimende: Duke KomboKapsabet: Dennis mukoshiWangige: Terry ArigaKinoo: Gedion  kariukiMatuu: Juliet  MuthiniRuiru: Lucy Wangui   MaaraWangige: Nancy Kanyenje Kitui: Kipkoech  MutaiMbale: Rose Mutai  Chepkirui Nanyuki: Lucy GithuiRuai: Jane  WarigiaNyeri: Christine  KomboTala: Haron KipkiruiLimuru: Navine MalelaKenol: Daniel OdhiamboKagio: Anthony WanjohiKitale: Keith muhangaEldoret: Marion  mothoKabarnet: Linda KiruiMatuu: Marylily MumbiBungoma: Brian OduorBungoma: Eunice NjeriIten: Yvonne MuchiriRongai: Francis Mwangi Machakos: Joyce  KaniniKiambu: Maureen  WambuiNaivasha: Miriam. MugendiKangari: lewis   karaniMumias: Martin  murimi Kakamega: james  mwangiKakamega: victor  ochola Mbale: sheila jumbaNkubu: Gabriel KamandeWebuye: Bevalyne  LongetMarigat: Stephen KoechKapsowar: Ronald  ChebonNandi Hills: Caren ChepkemoiBumala: Herymitchell NangoniWebuye: Berverly longetBusia: emmanuel  ndengaBusia: victor   isabokeJunction: Rhoda MutindaMolo: Geoffrey GichomoMachakos: Titus MuthusiKimilili: Daniel  WambuaNjoro: Josphat gitauChwele: Rahab AmayaBurnt Forest: Flomena Chemutai Serem: Gilbert KipkoechKapcherop: Gideon KiplangatEmali: Wilfred MainaKitale: Kevin MwangiNyahururu: Dennis Nyaga Meru: Cecilia wanjikuMeru: Glory KathomiLitein: Faith ChepkoechRuiru: Judyeddy   WangariLuanda: Carol  Wanja Embu: Samson  NgangaEldoret: Daniel  Murumba Rongai: Nelly KamoingKangemi: Charles  Mwangi Kiriaini: slyvia muthoniBanana: Patricia MugoDagoretti: Aidah  wanjikuMolo: Wesley Langat  Tala: charles njeriKiriaini: james gikonyoRongai: Antony  MainaRongai: Charles EboleEmali: Faith MutaiKitui: Sharon  Simiyu Limuru: Cecilia   Nyokabi Kawangware: Kennedy EshifululaBomet: benalyne chepkwonyKawangware: Victor  Thuo                                </value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;loan_officer&quot;)</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <value>//select[@id='loan_officer']</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <value>//form[@id='frmOrder']/table/tbody/tr[4]/td[2]/select</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Loan Officer: *'])[1]/following::select[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Customer Market'])[1]/following::select[2]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Collections Officer: *'])[1]/preceding::select[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Outcome*'])[1]/preceding::select[2]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <value>//td[2]/select</value>
+   </webElementXpaths>
+</WebElementEntity>
