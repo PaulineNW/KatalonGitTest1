@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Search for payments using loan code</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ee88487e-bc5f-4e17-aee1-d5de9afe945d</testCaseGuid>
+</TestCaseEntity>

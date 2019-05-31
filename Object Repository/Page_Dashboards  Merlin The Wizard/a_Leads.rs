@@ -9,8 +9,12 @@
          <key>XPATH</key>
          <value>//div[@id='menu']/ul/li[2]/a</value>
       </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//a[@href = 'leads.php' and (text() = 'Leads' or . = 'Leads')]</value>
+      </entry>
    </selectorCollection>
-   <selectorMethod>XPATH</selectorMethod>
+   <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <webElementProperties>
       <isSelected>true</isSelected>

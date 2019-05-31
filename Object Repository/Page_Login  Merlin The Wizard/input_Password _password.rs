@@ -96,4 +96,10 @@
       <name>xpath:position</name>
       <value>//tr[2]/td[2]/input</value>
    </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('id(', '&quot;', 'username', '&quot;', ')')])[1]/preceding::input[2]</value>
+   </webElementXpaths>
 </WebElementEntity>

@@ -24,7 +24,7 @@
       <matchCondition>equals</matchCondition>
       <name>href</name>
       <type>Main</type>
-      <value>ptp_details.php?user_id=104178&amp;loan_balance=2845</value>
+      <value>ptp_details.php?user_id=104764&amp;loan_balance=6500</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -74,12 +74,18 @@
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:href</name>
-      <value>//a[contains(@href, 'ptp_details.php?user_id=104178&amp;loan_balance=2845')]</value>
+      <value>//a[contains(@href, 'ptp_details.php?user_id=104764&amp;loan_balance=6500')]</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <value>//p/a</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <value>//a[contains(@href, 'ptp_details.php?user_id=104178&amp;loan_balance=2845')]</value>
    </webElementXpaths>
 </WebElementEntity>
